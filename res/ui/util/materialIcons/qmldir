@@ -1,0 +1,2 @@
+module MaterialIcons
+singleton MaterialLoader 1.0 MaterialLoader.qml

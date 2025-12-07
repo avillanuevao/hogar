@@ -23,6 +23,8 @@ qt_add_qml_module(apphogar
         res/ui/MainWindow.qml
     RESOURCES
         res/ui/util/materialIcons/qmldir
+        QML_FILES res/ui/util/components/RoomCard.qml
+        QML_FILES res/ui/util/components/ToggleButton.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
